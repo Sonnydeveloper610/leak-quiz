@@ -11,7 +11,7 @@ function CompanyCard() {
         ✔️ <strong>합리적인 가격</strong>과 <strong>친절한 서비스</strong>, <strong>최신형 첨단장비</strong>로 고객님을 찾아뵙겠습니다.
       </p>
       <p className="tel">
-        📞 <a href="tel:01058598389">TEL : 010-5859-8389</a>
+        📞 <a href="tel:01058958389">TEL : 010-5895-8389</a>
       </p>
     </div>
   );
